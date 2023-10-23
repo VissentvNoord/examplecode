@@ -1,3 +1,4 @@
+//The APIClient class on Unity that uses the get function on the API
 
 public class APIClient : MonoBehaviour{
   private IEnumerator FetchSongsFromServer(int min, int max)
